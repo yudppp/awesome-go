@@ -1,4 +1,5 @@
-# <img align="right" src="https://github.com/avelino/awesome-go/raw/master/tmpl/assets/logo.png" alt="awesome-go" title="awesome-go" /> Awesome Go
+	
+s://github.com/avelino/awesome-go/raw/master/tmpl/assets/logo.png" alt="awesome-go" title="awesome-go" /> Awesome Go
 
 [![Build Status](https://travis-ci.com/avelino/awesome-go.svg?branch=master)](https://travis-ci.com/avelino/awesome-go)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -2169,6 +2170,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [statiks](https://github.com/janiltonmaciel/statiks) - Fast, zero-configuration, static HTTP filer server.
 * [Storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB.
 * [structs](https://github.com/PumpkinSeed/structs) - Implement simple functions to manipulate structs.
+* [throttle](https://github.com/yudppp/throttle) - Throttle is an object that will perform exactly one action per duration.
 * [tik](https://github.com/andy2046/tik) - Simple and easy timing wheel package for Go.
 * [tome](https://github.com/cyruzin/tome) - Tome was designed to paginate simple RESTful APIs.
 * [toolbox](https://github.com/viant/toolbox) - Slice, map, multimap, struct, function, data conversion utilities. Service router, macro evaluator, tokenizer.
